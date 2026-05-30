@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvpdate",
+        "uuid": 15518250,
+        "checksum": "iuwyjc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
